@@ -1,8 +1,8 @@
 <?php
-$proxy = "geo.iproyal.com:12321";
-$proxy_auth = "ZZwOjSCwzmli56Gq:2ZdgE0ZvD3qcJ3iP";
+$proxy = "gw.dataimpulse.com:1043";
+$proxy_auth = "b92b45fdfee4f3b6cb86__cr.us:08be108b6bc4e117";
 $url = "http://ip-api.com/json";
-
+// gw.dataimpulse.com:1043:b92b45fdfee4f3b6cb86__cr.us:08be108b6bc4e117
 // Initialize cURL session
 $ch = curl_init();
 
